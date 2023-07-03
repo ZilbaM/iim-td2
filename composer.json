@@ -1,0 +1,23 @@
+{
+    "name": "pgrimaud/iim-td2",
+    "description": "A beautiful demo package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Iim\\td2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pierre Grimaud",
+            "email": "grimaud.pierre@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.10"
+    }
+}
