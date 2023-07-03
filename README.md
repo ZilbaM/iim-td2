@@ -15,7 +15,7 @@ composer install
 ```
 
 ```bash
- php vendor/bin/phpstan analyse src --level=max
+php vendor/bin/phpstan analyse src --level=max
 ```
 
 ```bash
